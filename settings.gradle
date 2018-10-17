@@ -1,0 +1,6 @@
+include  ':asrdemo'
+include  ':asrdemo2'
+include':core'
+include ':vprcjavasdk'
+include  ':itademo'
+

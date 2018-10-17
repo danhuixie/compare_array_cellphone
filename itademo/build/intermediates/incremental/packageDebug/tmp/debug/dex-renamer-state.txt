@@ -1,0 +1,4 @@
+#Fri Oct 12 17:17:54 CST 2018
+base.0=D\:\\lshy_work\\android2\\MicrophoneArray\\itademo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
